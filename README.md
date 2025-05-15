@@ -1,16 +1,19 @@
-## Hi 👋! My name is ![Dinakara Ambepitiya](https://img.shields.io/badge/Dinakara%20Ambepitiya-red?style=flat-square&logo=github&logoColor=white)  
-I'm a ![Developer](https://img.shields.io/badge/Developer-green?style=flat-square) and ![Tech Enthusiastic](https://img.shields.io/badge/Tech%20Enthusiastic-blue?style=flat-square) from Sri Lanka...
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=9D1DF7&background=000000&center=true&vCenter=true&width=435&lines=Hi!%F0%9F%91%8B+My+name+is++Dinakara+" alt="Typing SVG" /></a>
+</br>
+I'm a ![Developer](https://img.shields.io/badge/Developer-purple?style=flat-square) and ![Tech Enthusiastic](https://img.shields.io/badge/Tech%20Enthusiastic-blue?style=flat-square) from Sri Lanka...
 
-### Also learning DevOps & cloud technologies!  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&pause=1000&color=54F73F&background=000000&center=true&vCenter=true&width=435&lines=Also+learning+DevOps+%26+Cloud+Technologies!" alt="Typing SVG" /></a>
 
 
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinakaranadun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Dinakara's language stats"  />
-</div>
+<img align="right" height="150" src="https://raw.githubusercontent.com/mikemarcinkiewicz/gif-coding-avatars/main/02.gif" alt="Boy coding animation" />
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding animation" />
+  </div>
 
+<img align="right" height="150" src="https://cdn.dribbble.com/users/1787321/screenshots/6541826/media/78db2c43e0c678cc3e3b71c3ff29ed4a.gif" alt="Boy coding animation" />
+
+</br>
 
 
 <div align="left">
@@ -44,7 +47,7 @@ I'm a ![Developer](https://img.shields.io/badge/Developer-green?style=flat-squar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="Ubuntu logo" />
 </div>
 
-
+</br>
 
 <div align="left">
   <a href="https://www.instagram.com/dina_ambe" target="_blank">
