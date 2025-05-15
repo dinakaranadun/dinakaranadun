@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=9D1DF7&background=000000&center=true&vCenter=true&width=435&lines=Hi!%F0%9F%91%8B+My+name+is++Dinakara+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=54F73F&background=000000&center=true&vCenter=true&width=435&lines=Hi!%F0%9F%91%8B+My+name+is++Dinakara+" alt="Typing SVG" /></a>
+</br>
 </br>
 I'm a ![Developer](https://img.shields.io/badge/Developer-purple?style=flat-square) and ![Tech Enthusiastic](https://img.shields.io/badge/Tech%20Enthusiastic-blue?style=flat-square) from Sri Lanka...
 
