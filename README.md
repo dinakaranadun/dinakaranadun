@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Tech%20Enthusiastic-blue?style=flat-square" /> from Sri Lanka...
 </p>
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&pause=1000&color=54F73F&center=true&vCenter=true&width=465&lines=Currently+learning+DevOps+%26+Cloud+Technologies!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&pause=1000&color=54F73F&center=true&vCenter=true&width=500&lines=Currently+learning+DevOps+%26+Cloud+Technologies!" alt="Typing SVG" /></a>
 </div>
 
 
